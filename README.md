@@ -82,6 +82,10 @@ Performed final quality checks before loading data into Tableau.
 
 ---
 
+# Image#
+<img width="1918" height="828" alt="image" src="https://github.com/user-attachments/assets/16cad822-38fb-41ae-9046-3fcd531588b2" />
+
+
 # 📈 Business Questions Answered
 
 ### 1. Are guests mostly booking entire homes or private rooms?
