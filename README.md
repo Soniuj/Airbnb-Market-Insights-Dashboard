@@ -11,7 +11,7 @@ The objective of this analysis is to identify the factors that influence Airbnb 
 
 ## 🛠️ Tools & Technologies
 
-* **Tableau Cloud ** – Dashboard Development
+* **Tableau Cloud** – Dashboard Development
 * **Microsoft Excel** – Data Cleaning & Preparation
 * **CSV Dataset** – Airbnb Listings Data
 
